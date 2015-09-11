@@ -1,4 +1,9 @@
 <?php
+
+    // +----------------------------------------------------------------------+
+    // | iTS Cache v1 - Advance Caching Class                                 |
+    // +----------------------------------------------------------------------+
+
 include "itscache.class.php";
 
 $path = 'cache/'; // Set Cache path ! Do not forget '/'
